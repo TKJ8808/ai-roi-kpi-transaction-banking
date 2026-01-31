@@ -1,0 +1,7 @@
+SOP: Failed Transaction Handling
+
+1. Identify failure reason from transaction logs.
+2. Validate account details and routing codes.
+3. Check liquidity and balance availability.
+4. Reattempt transaction if applicable.
+5. Notify client if manual intervention is required.
