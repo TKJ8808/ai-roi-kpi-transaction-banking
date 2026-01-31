@@ -1,0 +1,7 @@
+SOP: Payment Delay Investigation
+
+1. Verify payment initiation timestamp.
+2. Check beneficiary bank response codes.
+3. Confirm cut-off times and time-zone differences.
+4. Review sanction screening and compliance flags.
+5. Escalate if delay exceeds SLA threshold.
