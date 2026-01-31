@@ -1,0 +1,5 @@
+Case Summary: Delayed Cross-Border Payment
+
+A cross-border payment was delayed due to an intermediary bank compliance check.
+Resolution involved manual review, confirmation of documentation, and reprocessing
+within the same business day. SLA impact was avoided through proactive escalation.
